@@ -1,2 +1,15 @@
 # HINPapers
-Papers about Heterogeous Information Network, embedding for GNN and their applications
+Papers about Heterogenous Information Network(HIN), embedding for Graph Neural Network(GNN) and their applications
+
+### Content
+
+#### HIN Models
+
+#### GNN Models
+
+#### Applications
+
+
+
+
+
